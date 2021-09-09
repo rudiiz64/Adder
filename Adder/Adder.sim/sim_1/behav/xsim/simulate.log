@@ -1,0 +1,7 @@
+Time resolution is 1 ps
+a=  0, b=  0, c=0 cout=0 sum=  0
+a= 36, b=129, c=1 cout=0 sum=166
+a= 99, b= 13, c=1 cout=0 sum=113
+a=101, b= 18, c=1 cout=0 sum=120
+a= 13, b=118, c=1 cout=0 sum=132
+a=237, b=140, c=1 cout=1 sum=122
